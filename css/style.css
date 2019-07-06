@@ -1,0 +1,89 @@
+body {
+  background: lightgray; }
+
+h4 {
+  color: white; }
+
+.btn-success {
+  background: #224774;
+  border: 0.4px solid #224774;
+  border-radius: 0px; }
+
+.btn-success:hover {
+  background: #224774;
+  border: 0.4px solid #224774; }
+
+.form-control {
+  border-radius: 0px;
+  border: none;
+  font-size: 0.8rem; }
+
+.btn-primary {
+  border-radius: 0px;
+  border: 0.4px solid #224774;
+  background: #224774; }
+  .btn-primary a {
+    text-decoration: none;
+    color: white; }
+
+.fa-music {
+  color: white;
+  font-size: 2em; }
+
+.input-group-text {
+  background: #224774;
+  border: 0.4px solid #224774;
+  border-radius: 0px;
+  color: #fff; }
+
+.navbar {
+  padding: 15px; }
+
+.form-group h2 {
+  text-align: center;
+  color: #224774;
+  margin-top: 20px; }
+
+.frm-default {
+  border: 1px solid #224774;
+  border-radius: 30px;
+  margin-top: 15px; }
+
+h5 {
+  margin-top: 10px; }
+
+.btn-registro {
+  margin-top: 15px;
+  border: 1px solid #224774;
+  border-radius: 30px;
+  background: #224774;
+  color: white;
+  font-size: 1rem; }
+
+.btn-registro:hover {
+  background: #005cbf; }
+
+.btn-registro span {
+  padding: 25px;
+  font-size: 1.2rem; }
+
+.img {
+  margin-top: 20px; }
+
+footer {
+  height: 46px; }
+
+.foo {
+  padding-top: 15px; }
+
+.gran-titulo {
+  font-size: 3.5rem;
+  text-align: center; }
+
+.bordes {
+  border: 1px dodgerblue solid; }
+
+.verde {
+  color: #1c7430; }
+
+/*# sourceMappingURL=style.css.map */
