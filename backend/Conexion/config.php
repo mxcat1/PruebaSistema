@@ -1,9 +1,9 @@
 <?php
-    define("DB_HOST","localhost");
-    define("DB_PORT",5432);
-    define("DB_USER","root");
-    define("DB_PASS","XXmxcatXX");
-    define("DB_NAMEDB","dbsistema_red_social_musica");
+    define("DB_HOST","sql10.freemysqlhosting.net");
+    define("DB_PORT",3306);
+    define("DB_USER","sql10297739");
+    define("DB_PASS","Cit2Qa4VBY");
+    define("DB_NAMEDB","sql10297739");
     define("DB_CHARTSET","utf8");
     define("DB_TYPE","mysql");
     define("DB_DSN",DB_TYPE.":dbname=".DB_NAMEDB.";host=".DB_HOST);
